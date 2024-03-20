@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2018/03/23/22/11/knowledge-3255140_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 300px ;
+
+}
+.middle{
+    background-color:rgba(0, 0, 0, 0.3);
+    color:whitesmoke;
+    height: 250px;
+    width: 600px;
+    margin: auto;
+    margin-top: 30px;
+    margin-right: 600px;
+    margin-left: 900px;
+}
+
+
